@@ -1,0 +1,20 @@
+div {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+#svg {
+  background-color: darkseagreen;
+  background: radial-gradient(darkseagreen 0%, black 70%);
+}
